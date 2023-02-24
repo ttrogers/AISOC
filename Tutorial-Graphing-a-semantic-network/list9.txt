@@ -1,0 +1,24 @@
+Chimpanzee
+Kangaroo
+Lemur
+Dog
+Rhinoceros
+Elephant
+Baboon
+Cat
+Bird
+Snake
+Cheetah
+Leopard
+Jaguar
+Puma
+Ostrich
+Penguin
+Gorilla
+Sturgeon
+Partridge
+Koala
+Impala
+Gazelle
+Water buffalo
+Bison

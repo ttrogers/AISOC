@@ -1,0 +1,42 @@
+cat
+dog
+pig
+cow
+chicken
+duck
+goose
+horse
+goat
+sheep
+zebra
+elephant
+giraffe
+camel
+rhino 
+hippopotamus
+seal
+walrus
+whale
+dolphin
+shark
+sting ray
+manatee
+raccoon
+squirrel
+chipmunk
+rabbit
+deer
+moose
+coyote
+fox
+rat
+mouse
+cardinal
+blue jay 
+robin
+finch
+bat
+humming bird
+jaguar
+tiger
+lion

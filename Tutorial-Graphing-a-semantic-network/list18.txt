@@ -1,0 +1,17 @@
+pig
+cat
+dog
+elephant
+fish
+bird
+jaguar
+tiger
+gorilla
+dolphin
+seal
+seahorse
+leopard
+giraffe
+chimpanzee
+walrus
+snake

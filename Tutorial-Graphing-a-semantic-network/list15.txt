@@ -1,0 +1,28 @@
+cow 
+sheep
+pig
+horse
+chicken
+lamb
+dog
+cat
+bird
+fish
+frog
+lizard
+turtle
+tortoise
+leopard
+lion
+deer
+turkey
+pheasant
+snow cat
+iguana 
+whale
+shark
+shrimp
+krill
+sea lion
+seal
+walrus

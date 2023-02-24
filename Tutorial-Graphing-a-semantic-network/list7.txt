@@ -1,0 +1,52 @@
+cat
+dog
+pig
+cow
+monkey
+dog
+cat
+skunk
+fish
+orangutan
+gorilla
+bonobo
+chimp
+cow
+hamster
+mouse
+rat
+muskrat
+donkey
+horse
+cheetah
+leopard
+lion
+pig
+goat
+llama
+alpaca
+ox
+bull
+coyote
+gazelle
+buffalo
+water buffalo
+snake
+frog
+salamander
+iguana
+kimono dragon
+gila monster
+wolf
+lynx
+snow leopard
+tiger
+panther
+bird
+spider
+fly
+mosquito
+centipede
+millipede
+ant
+
